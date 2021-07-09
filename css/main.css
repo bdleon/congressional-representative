@@ -1,3 +1,6 @@
+body{
+    background-color:burlywood;
+}
 .representative{
     display:flex;
     justify-content: space-around;
@@ -9,4 +12,14 @@
 
 .representative__links{
     flex-direction: column;
+    border-style: solid;
+    padding: 1em;
+    margin: 1em;
+}
+.representative__comittees{
+    flex-direction: column;
+    border-style: solid;
+    padding: 1em;
+    margin:1em;
+
 }
