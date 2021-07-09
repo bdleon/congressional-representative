@@ -1,0 +1,12 @@
+.representative{
+    display:flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.representative__info{
+    flex-direction: row;
+}
+
+.representative__links{
+    flex-direction: column;
+}
